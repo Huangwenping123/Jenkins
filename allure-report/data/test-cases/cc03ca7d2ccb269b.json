@@ -1,0 +1,62 @@
+{
+  "uid" : "cc03ca7d2ccb269b",
+  "name" : "test_contact4",
+  "fullName" : "scripts.test_contact.TestContact#test_contact4",
+  "historyId" : "202683f187279318ab2fe69aa73dd12e",
+  "time" : {
+    "start" : 1585468564138,
+    "stop" : 1585468564138,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_contact.TestContact object at 0x1135ee160>\n\n    def test_contact4(self):\n>       assert 0\nE       assert 0\n\nscripts/test_contact.py:15: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestContact"
+  }, {
+    "name" : "host",
+    "value" : "your-desired-host-name"
+  }, {
+    "name" : "thread",
+    "value" : "39631-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cc03ca7d2ccb269b.json",
+  "parameterValues" : [ ]
+}

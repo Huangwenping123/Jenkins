@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Mar 29 15:56:04 CST 2020","Sun Mar 29 15:56:04 CST 2020","0","scripts","test_contact","TestContact","","","test_contact4",""
+"passed","Sun Mar 29 15:56:04 CST 2020","Sun Mar 29 15:56:04 CST 2020","0","scripts","test_contact","TestContact","","","test_contact2",""
+"passed","Sun Mar 29 15:56:04 CST 2020","Sun Mar 29 15:56:04 CST 2020","0","scripts","test_contact","TestContact","","","test_contact5",""
+"passed","Sun Mar 29 15:56:04 CST 2020","Sun Mar 29 15:56:04 CST 2020","0","scripts","test_contact","TestContact","","","test_contact1",""
+"passed","Sun Mar 29 15:56:04 CST 2020","Sun Mar 29 15:56:04 CST 2020","0","scripts","test_contact","TestContact","","","test_contact3",""

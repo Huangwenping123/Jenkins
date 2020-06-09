@@ -1,0 +1,56 @@
+{
+  "uid" : "9cd3397981171049",
+  "name" : "test_contact3",
+  "fullName" : "scripts.test_contact.TestContact#test_contact3",
+  "historyId" : "844ffb4e73a980661defb903ad3bf442",
+  "time" : {
+    "start" : 1585468564136,
+    "stop" : 1585468564136,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestContact"
+  }, {
+    "name" : "host",
+    "value" : "your-desired-host-name"
+  }, {
+    "name" : "thread",
+    "value" : "39631-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9cd3397981171049.json",
+  "parameterValues" : [ ]
+}
